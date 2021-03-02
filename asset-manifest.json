@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TechnoBootAssignment/static/css/main.1ed6b11a.chunk.css",
+    "main.js": "/TechnoBootAssignment/static/js/main.63df070f.chunk.js",
+    "main.js.map": "/TechnoBootAssignment/static/js/main.63df070f.chunk.js.map",
+    "runtime-main.js": "/TechnoBootAssignment/static/js/runtime-main.9977e2e3.js",
+    "runtime-main.js.map": "/TechnoBootAssignment/static/js/runtime-main.9977e2e3.js.map",
+    "static/js/2.612955ff.chunk.js": "/TechnoBootAssignment/static/js/2.612955ff.chunk.js",
+    "static/js/2.612955ff.chunk.js.map": "/TechnoBootAssignment/static/js/2.612955ff.chunk.js.map",
+    "index.html": "/TechnoBootAssignment/index.html",
+    "static/css/main.1ed6b11a.chunk.css.map": "/TechnoBootAssignment/static/css/main.1ed6b11a.chunk.css.map",
+    "static/js/2.612955ff.chunk.js.LICENSE.txt": "/TechnoBootAssignment/static/js/2.612955ff.chunk.js.LICENSE.txt",
+    "static/media/bg1.19088f70.jpg": "/TechnoBootAssignment/static/media/bg1.19088f70.jpg",
+    "static/media/page.css": "/TechnoBootAssignment/static/media/bg2.779d8436.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9977e2e3.js",
+    "static/js/2.612955ff.chunk.js",
+    "static/css/main.1ed6b11a.chunk.css",
+    "static/js/main.63df070f.chunk.js"
+  ]
+}
